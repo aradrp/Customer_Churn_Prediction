@@ -1,0 +1,55 @@
+feature,coefficient
+cat__Contract_Month-to-month,0.7286892112060726
+cat__Contract_Two year,-0.6943270184900149
+num__tenure,-0.4868092041614691
+cat__InternetService_Fiber optic,0.3869128093397466
+cat__InternetService_DSL,-0.3368767427812872
+num__is_new_customer,0.26855056255341486
+cat__PaymentMethod_Electronic check,0.2521924599113348
+cat__TechSupport_No,0.20970475405766428
+cat__MultipleLines_No,-0.2044239136118003
+cat__tenure_bucket_25-48mo,-0.20164424304033146
+cat__PaperlessBilling_No,-0.19797476565143646
+cat__PaperlessBilling_Yes,0.1943469320424397
+cat__OnlineSecurity_No,0.18701830240575407
+cat__tenure_bucket_4-12mo,0.18558615044071528
+cat__TechSupport_Yes,-0.15966868749920524
+num__avg_charge_per_tenure_month,0.15514948140904578
+cat__StreamingMovies_Yes,0.14539917109741807
+cat__OnlineSecurity_Yes,-0.1369822358472962
+cat__StreamingTV_Yes,0.13207377976287976
+cat__PhoneService_Yes,-0.13138717766201632
+num__has_internet,0.12808015998487612
+cat__PhoneService_No,0.127759344053016
+cat__MultipleLines_No phone service,0.127759344053016
+cat__OnlineBackup_No,0.10042796104650918
+num__MonthlyCharges,0.09781648123449366
+cat__tenure_bucket_0-3mo,0.09642237070699446
+cat__Dependents_Yes,-0.0959530819918269
+cat__StreamingMovies_No,-0.09536310453895847
+cat__PaymentMethod_Credit card (automatic),-0.09468210688747604
+cat__Dependents_No,0.09232524838283199
+cat__StreamingTV_No,-0.082037713204421
+cat__PaymentMethod_Bank transfer (automatic),-0.08067608034050484
+cat__PaymentMethod_Mailed check,-0.0804621062923519
+num__TotalCharges,-0.07516550472384852
+cat__MultipleLines_Yes,0.07303673594978886
+num__SeniorCitizen,0.0653623703482415
+cat__OnlineBackup_No internet service,-0.05366390016745576
+cat__InternetService_No,-0.05366390016745576
+cat__StreamingMovies_No internet service,-0.05366390016745576
+cat__StreamingTV_No internet service,-0.05366390016745576
+cat__TechSupport_No internet service,-0.05366390016745576
+cat__OnlineSecurity_No internet service,-0.05366390016745576
+cat__DeviceProtection_No internet service,-0.05366390016745576
+cat__OnlineBackup_Yes,-0.05039189448805052
+cat__tenure_bucket_13-24mo,-0.046581581729015185
+cat__DeviceProtection_Yes,0.04238691940061397
+cat__Contract_One year,-0.03799002632505798
+cat__tenure_bucket_49mo+,-0.037410529987362606
+cat__gender_Male,-0.016325442593701067
+cat__gender_Female,0.01269760898470429
+num__num_subscribed_services,-0.01061666276302342
+cat__DeviceProtection_No,0.007649147157844688
+cat__Partner_No,-0.00442955474458344
+cat__Partner_Yes,0.0008017211355894496

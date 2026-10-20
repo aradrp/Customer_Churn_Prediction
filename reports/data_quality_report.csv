@@ -1,0 +1,5 @@
+issue,affected_rows,decision,rationale
+TotalCharges stored as string with blank entries,11,"Coerce to numeric with errors='coerce'; impute inside pipeline (median, train-fold only)",Blank values correspond to customers with zero tenure (brand-new accounts); coercion prevents the whole column being treated as categorical.
+Duplicate rows,0,None found,Exact duplicate rows would let the same customer's information leak across train/validation/test partitions.
+customerID uniqueness,0,Retain customerID for reporting only; excluded from model features,customerID is an arbitrary identifier with no predictive signal and would act as a lookup key that overfits with high-cardinality encoders.
+Zero-tenure customers,11,"Keep, but flag as a small, plausible edge case","New customers naturally have tenure=0 and blank TotalCharges; this is a real business segment, not a data error."

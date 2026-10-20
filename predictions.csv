@@ -1,0 +1,1058 @@
+customerID,actual_churn,probability,prediction,risk_group,recommended_action
+5178-LMXOP,1,0.9111,1,High,Priority outreach: personal call + retention offer within 48h
+1400-MMYXY,1,0.9064,1,High,Priority outreach: personal call + retention offer within 48h
+6023-YEBUP,1,0.902,1,High,Priority outreach: personal call + retention offer within 48h
+0295-PPHDO,1,0.8952,1,High,Priority outreach: personal call + retention offer within 48h
+9057-SIHCH,1,0.8949,1,High,Priority outreach: personal call + retention offer within 48h
+2545-EBUPK,0,0.8883,1,High,Priority outreach: personal call + retention offer within 48h
+1143-NMNQJ,1,0.8651,1,High,Priority outreach: personal call + retention offer within 48h
+8593-WHYHV,1,0.8609,1,High,Priority outreach: personal call + retention offer within 48h
+0970-ETWGE,1,0.8604,1,High,Priority outreach: personal call + retention offer within 48h
+6230-BSUXY,1,0.8593,1,High,Priority outreach: personal call + retention offer within 48h
+3722-WPXTK,1,0.8592,1,High,Priority outreach: personal call + retention offer within 48h
+2034-GDRCN,1,0.8582,1,High,Priority outreach: personal call + retention offer within 48h
+7181-BQYBV,1,0.8518,1,High,Priority outreach: personal call + retention offer within 48h
+5052-PNLOS,1,0.8498,1,High,Priority outreach: personal call + retention offer within 48h
+9248-OJYKK,1,0.8485,1,High,Priority outreach: personal call + retention offer within 48h
+8258-GSTJK,1,0.8448,1,High,Priority outreach: personal call + retention offer within 48h
+3006-XIMLN,1,0.8367,1,High,Priority outreach: personal call + retention offer within 48h
+2609-IAICY,1,0.829,1,High,Priority outreach: personal call + retention offer within 48h
+6861-XWTWQ,1,0.8288,1,High,Priority outreach: personal call + retention offer within 48h
+3519-ZKXGG,1,0.8288,1,High,Priority outreach: personal call + retention offer within 48h
+4415-IJZTP,1,0.8259,1,High,Priority outreach: personal call + retention offer within 48h
+1320-HTRDR,1,0.8192,1,High,Priority outreach: personal call + retention offer within 48h
+6857-VWJDT,1,0.8102,1,High,Priority outreach: personal call + retention offer within 48h
+8375-DKEBR,1,0.805,1,High,Priority outreach: personal call + retention offer within 48h
+1628-BIZYP,0,0.8047,1,High,Priority outreach: personal call + retention offer within 48h
+4342-HENTK,1,0.8033,1,High,Priority outreach: personal call + retention offer within 48h
+1980-KXVPM,1,0.8024,1,High,Priority outreach: personal call + retention offer within 48h
+5167-ZFFMM,1,0.8015,1,High,Priority outreach: personal call + retention offer within 48h
+8161-QYMTT,0,0.7978,1,High,Priority outreach: personal call + retention offer within 48h
+4750-ZRXIU,1,0.7957,1,High,Priority outreach: personal call + retention offer within 48h
+2865-TCHJW,1,0.7957,1,High,Priority outreach: personal call + retention offer within 48h
+7180-PISOG,1,0.7933,1,High,Priority outreach: personal call + retention offer within 48h
+5159-YFPKQ,1,0.7892,1,High,Priority outreach: personal call + retention offer within 48h
+8775-ERLNB,0,0.7888,1,High,Priority outreach: personal call + retention offer within 48h
+2761-OCIAX,1,0.7846,1,High,Priority outreach: personal call + retention offer within 48h
+6969-MVBAI,0,0.7808,1,High,Priority outreach: personal call + retention offer within 48h
+6630-UJZMY,0,0.7806,1,High,Priority outreach: personal call + retention offer within 48h
+0235-KGSLC,1,0.7793,1,High,Priority outreach: personal call + retention offer within 48h
+5376-DEQCP,1,0.7768,1,High,Priority outreach: personal call + retention offer within 48h
+3244-DCJWY,1,0.7763,1,High,Priority outreach: personal call + retention offer within 48h
+7409-KIUTL,1,0.7757,1,High,Priority outreach: personal call + retention offer within 48h
+0679-IDSTG,1,0.7741,1,High,Priority outreach: personal call + retention offer within 48h
+3721-CNEYS,1,0.7717,1,High,Priority outreach: personal call + retention offer within 48h
+9804-ICWBG,1,0.7707,1,High,Priority outreach: personal call + retention offer within 48h
+1820-TQVEV,1,0.7702,1,High,Priority outreach: personal call + retention offer within 48h
+2737-YNGYW,1,0.77,1,High,Priority outreach: personal call + retention offer within 48h
+9507-EXLTT,1,0.7686,1,High,Priority outreach: personal call + retention offer within 48h
+4115-NZRKS,0,0.7683,1,High,Priority outreach: personal call + retention offer within 48h
+2027-FECZV,1,0.767,1,High,Priority outreach: personal call + retention offer within 48h
+6077-BDPXA,0,0.7635,1,High,Priority outreach: personal call + retention offer within 48h
+6856-RAURS,0,0.7633,1,High,Priority outreach: personal call + retention offer within 48h
+2867-UIMSS,1,0.7582,1,High,Priority outreach: personal call + retention offer within 48h
+8245-UMPYT,1,0.7582,1,High,Priority outreach: personal call + retention offer within 48h
+6372-RFVNS,1,0.757,1,High,Priority outreach: personal call + retention offer within 48h
+5196-SGOAK,1,0.7564,1,High,Priority outreach: personal call + retention offer within 48h
+3750-CKVKH,1,0.7549,1,High,Priority outreach: personal call + retention offer within 48h
+6328-ZPBGN,1,0.7529,1,High,Priority outreach: personal call + retention offer within 48h
+2254-DLXRI,0,0.7514,1,High,Priority outreach: personal call + retention offer within 48h
+8739-XNIKG,0,0.7511,1,High,Priority outreach: personal call + retention offer within 48h
+6979-ZNSFF,1,0.7497,1,High,Priority outreach: personal call + retention offer within 48h
+0655-RBDUG,1,0.7483,1,High,Priority outreach: personal call + retention offer within 48h
+7209-JCUDS,1,0.7466,1,High,Priority outreach: personal call + retention offer within 48h
+5186-SAMNZ,1,0.7417,1,High,Priority outreach: personal call + retention offer within 48h
+3292-PBZEJ,0,0.7404,1,High,Priority outreach: personal call + retention offer within 48h
+0258-NOKBL,0,0.7404,1,High,Priority outreach: personal call + retention offer within 48h
+0685-MLYYM,1,0.7401,1,High,Priority outreach: personal call + retention offer within 48h
+7198-GLXTC,1,0.7399,1,High,Priority outreach: personal call + retention offer within 48h
+8380-PEFPE,1,0.7385,1,High,Priority outreach: personal call + retention offer within 48h
+2485-ITVKB,1,0.7379,1,High,Priority outreach: personal call + retention offer within 48h
+1853-UDXBW,1,0.7369,1,High,Priority outreach: personal call + retention offer within 48h
+0841-NULXI,1,0.7367,1,High,Priority outreach: personal call + retention offer within 48h
+8821-XNHVZ,1,0.7346,1,High,Priority outreach: personal call + retention offer within 48h
+0432-CAJZV,0,0.7312,1,High,Priority outreach: personal call + retention offer within 48h
+8622-ZLFKO,0,0.7274,1,High,Priority outreach: personal call + retention offer within 48h
+5419-CONWX,1,0.7249,1,High,Priority outreach: personal call + retention offer within 48h
+0923-PNFUB,1,0.724,1,High,Priority outreach: personal call + retention offer within 48h
+7249-WBIYX,1,0.7224,1,High,Priority outreach: personal call + retention offer within 48h
+1448-PWKYE,1,0.7223,1,High,Priority outreach: personal call + retention offer within 48h
+5698-BQJOH,1,0.7192,1,High,Priority outreach: personal call + retention offer within 48h
+2077-MPJQO,0,0.7182,1,High,Priority outreach: personal call + retention offer within 48h
+2325-NBPZG,0,0.7156,1,High,Priority outreach: personal call + retention offer within 48h
+9940-RHLFB,1,0.7156,1,High,Priority outreach: personal call + retention offer within 48h
+2754-SDJRD,0,0.7151,1,High,Priority outreach: personal call + retention offer within 48h
+1768-ZAIFU,1,0.7142,1,High,Priority outreach: personal call + retention offer within 48h
+0388-EOPEX,1,0.7126,1,High,Priority outreach: personal call + retention offer within 48h
+9334-GWGOW,0,0.711,1,High,Priority outreach: personal call + retention offer within 48h
+3877-JRJIP,1,0.709,1,High,Priority outreach: personal call + retention offer within 48h
+9576-ANLXO,1,0.7077,1,High,Priority outreach: personal call + retention offer within 48h
+4029-HPFVY,0,0.7015,1,High,Priority outreach: personal call + retention offer within 48h
+4445-ZJNMU,0,0.7004,1,High,Priority outreach: personal call + retention offer within 48h
+6892-XPFPU,1,0.6993,1,Medium,Targeted email campaign with loyalty discount
+8443-ZRDBZ,1,0.698,1,Medium,Targeted email campaign with loyalty discount
+4983-CCWMC,0,0.6965,1,Medium,Targeted email campaign with loyalty discount
+5357-TZHPP,1,0.696,1,Medium,Targeted email campaign with loyalty discount
+5442-BHQNG,0,0.6957,1,Medium,Targeted email campaign with loyalty discount
+7952-OBOYL,0,0.6943,1,Medium,Targeted email campaign with loyalty discount
+2985-FMWYF,0,0.6914,1,Medium,Targeted email campaign with loyalty discount
+7571-YXDAD,1,0.6883,1,Medium,Targeted email campaign with loyalty discount
+5382-SOYZL,0,0.6879,1,Medium,Targeted email campaign with loyalty discount
+4229-CZMLL,1,0.6862,1,Medium,Targeted email campaign with loyalty discount
+7029-RPUAV,1,0.6847,1,Medium,Targeted email campaign with loyalty discount
+6680-WKXRZ,1,0.6844,1,Medium,Targeted email campaign with loyalty discount
+8541-QVFKM,0,0.6827,1,Medium,Targeted email campaign with loyalty discount
+8083-YTZES,1,0.6826,1,Medium,Targeted email campaign with loyalty discount
+7363-QTBIW,0,0.6809,1,Medium,Targeted email campaign with loyalty discount
+1024-GUALD,1,0.6767,1,Medium,Targeted email campaign with loyalty discount
+3199-XGZCY,0,0.6766,1,Medium,Targeted email campaign with loyalty discount
+8676-TRMJS,1,0.6761,1,Medium,Targeted email campaign with loyalty discount
+7354-OIJLX,0,0.6747,1,Medium,Targeted email campaign with loyalty discount
+6338-AVWCY,1,0.6709,1,Medium,Targeted email campaign with loyalty discount
+3030-YDNRM,0,0.6693,1,Medium,Targeted email campaign with loyalty discount
+6000-APYLU,1,0.6675,1,Medium,Targeted email campaign with loyalty discount
+7005-CCBKV,1,0.6649,1,Medium,Targeted email campaign with loyalty discount
+3966-HRMZA,0,0.6649,1,Medium,Targeted email campaign with loyalty discount
+9279-CJEOJ,0,0.664,1,Medium,Targeted email campaign with loyalty discount
+8361-LTMKD,1,0.6612,1,Medium,Targeted email campaign with loyalty discount
+3585-ISXZP,1,0.6557,1,Medium,Targeted email campaign with loyalty discount
+6507-ZJSUR,0,0.6529,1,Medium,Targeted email campaign with loyalty discount
+3063-QFSZL,1,0.6529,1,Medium,Targeted email campaign with loyalty discount
+5501-TVMGM,0,0.646,1,Medium,Targeted email campaign with loyalty discount
+8699-ASUFO,1,0.6447,1,Medium,Targeted email campaign with loyalty discount
+1016-DJTSV,0,0.6434,1,Medium,Targeted email campaign with loyalty discount
+2495-INZWQ,1,0.6432,1,Medium,Targeted email campaign with loyalty discount
+4735-ASGMA,1,0.6402,1,Medium,Targeted email campaign with loyalty discount
+2845-HSJCY,1,0.6402,1,Medium,Targeted email campaign with loyalty discount
+9747-DDZOS,1,0.6399,1,Medium,Targeted email campaign with loyalty discount
+9643-AVVWI,0,0.6383,1,Medium,Targeted email campaign with loyalty discount
+2057-ZBLPD,1,0.6359,1,Medium,Targeted email campaign with loyalty discount
+0004-TLHLJ,1,0.6307,1,Medium,Targeted email campaign with loyalty discount
+9685-WKZGT,1,0.6298,1,Medium,Targeted email campaign with loyalty discount
+4512-ZUIYL,1,0.629,1,Medium,Targeted email campaign with loyalty discount
+0988-JRWWP,0,0.626,1,Medium,Targeted email campaign with loyalty discount
+6166-ILMNY,1,0.6237,1,Medium,Targeted email campaign with loyalty discount
+5628-FCGYG,0,0.6226,1,Medium,Targeted email campaign with loyalty discount
+0616-ATFGB,1,0.6221,1,Medium,Targeted email campaign with loyalty discount
+4631-OACRM,1,0.6213,1,Medium,Targeted email campaign with loyalty discount
+4283-FUTGF,1,0.6179,1,Medium,Targeted email campaign with loyalty discount
+9048-JVYVF,1,0.6178,1,Medium,Targeted email campaign with loyalty discount
+6137-NICCO,0,0.6175,1,Medium,Targeted email campaign with loyalty discount
+1867-BDVFH,1,0.6165,1,Medium,Targeted email campaign with loyalty discount
+1475-VWVDO,0,0.6158,1,Medium,Targeted email campaign with loyalty discount
+7495-OOKFY,1,0.6155,1,Medium,Targeted email campaign with loyalty discount
+3908-BLSYF,1,0.6125,1,Medium,Targeted email campaign with loyalty discount
+3717-OEAUQ,0,0.6085,1,Medium,Targeted email campaign with loyalty discount
+6047-YHPVI,1,0.6075,1,Medium,Targeted email campaign with loyalty discount
+5339-PXDVH,0,0.6065,1,Medium,Targeted email campaign with loyalty discount
+6712-OAWRH,1,0.6054,1,Medium,Targeted email campaign with loyalty discount
+8397-MVTAZ,1,0.605,1,Medium,Targeted email campaign with loyalty discount
+7861-UVUFT,1,0.6024,1,Medium,Targeted email campaign with loyalty discount
+2860-RANUS,1,0.6001,1,Medium,Targeted email campaign with loyalty discount
+9741-YLNTD,0,0.5975,1,Medium,Targeted email campaign with loyalty discount
+8903-XEBGX,0,0.5956,1,Medium,Targeted email campaign with loyalty discount
+7928-VJYAB,0,0.5942,1,Medium,Targeted email campaign with loyalty discount
+9840-DVNDC,1,0.5937,1,Medium,Targeted email campaign with loyalty discount
+0506-LVNGN,1,0.5934,1,Medium,Targeted email campaign with loyalty discount
+1112-CUNAO,1,0.5913,1,Medium,Targeted email campaign with loyalty discount
+5228-EXCET,1,0.5909,1,Medium,Targeted email campaign with loyalty discount
+1658-TJVOA,0,0.5903,1,Medium,Targeted email campaign with loyalty discount
+6376-GAHQE,1,0.5885,1,Medium,Targeted email campaign with loyalty discount
+2754-XBHTB,1,0.5882,1,Medium,Targeted email campaign with loyalty discount
+6608-QQLVK,1,0.5881,1,Medium,Targeted email campaign with loyalty discount
+8132-YPVBX,0,0.5872,1,Medium,Targeted email campaign with loyalty discount
+6048-QBXKL,0,0.5868,1,Medium,Targeted email campaign with loyalty discount
+0576-WNXXC,1,0.5861,1,Medium,Targeted email campaign with loyalty discount
+4817-VYYWS,1,0.5855,1,Medium,Targeted email campaign with loyalty discount
+1379-FRVEB,0,0.5852,1,Medium,Targeted email campaign with loyalty discount
+2187-PKZAY,0,0.5819,1,Medium,Targeted email campaign with loyalty discount
+9054-FOWNV,0,0.5806,1,Medium,Targeted email campaign with loyalty discount
+1751-NCDLI,0,0.5777,1,Medium,Targeted email campaign with loyalty discount
+2025-JKFWI,1,0.577,1,Medium,Targeted email campaign with loyalty discount
+7534-BFESC,1,0.5749,1,Medium,Targeted email campaign with loyalty discount
+9692-TUSXH,1,0.5744,1,Medium,Targeted email campaign with loyalty discount
+9050-QLROH,1,0.5741,1,Medium,Targeted email campaign with loyalty discount
+6821-BUXUX,1,0.5738,1,Medium,Targeted email campaign with loyalty discount
+3334-CTHOL,1,0.5735,1,Medium,Targeted email campaign with loyalty discount
+5380-WJKOV,1,0.5728,1,Medium,Targeted email campaign with loyalty discount
+8739-WWKDU,1,0.5722,1,Medium,Targeted email campaign with loyalty discount
+8709-KRDVL,0,0.5697,1,Medium,Targeted email campaign with loyalty discount
+8993-PHFWD,1,0.5685,1,Medium,Targeted email campaign with loyalty discount
+1302-UHBDD,0,0.5641,1,Medium,Targeted email campaign with loyalty discount
+5759-RCVCB,1,0.563,1,Medium,Targeted email campaign with loyalty discount
+6705-LXORM,0,0.5608,1,Medium,Targeted email campaign with loyalty discount
+7851-FLGGQ,1,0.5598,1,Medium,Targeted email campaign with loyalty discount
+3627-FHKBK,1,0.5576,1,Medium,Targeted email campaign with loyalty discount
+2386-LAHRK,1,0.5567,1,Medium,Targeted email campaign with loyalty discount
+7278-CKDNC,0,0.5566,1,Medium,Targeted email campaign with loyalty discount
+8818-DOPVL,0,0.5553,1,Medium,Targeted email campaign with loyalty discount
+8621-MNIHH,1,0.5547,1,Medium,Targeted email campaign with loyalty discount
+0581-BXBUB,0,0.5517,1,Medium,Targeted email campaign with loyalty discount
+0524-IAVZO,1,0.5499,1,Medium,Targeted email campaign with loyalty discount
+3672-YITQD,1,0.5493,1,Medium,Targeted email campaign with loyalty discount
+7404-JLKQG,0,0.5493,1,Medium,Targeted email campaign with loyalty discount
+9907-SWKKF,1,0.5473,1,Medium,Targeted email campaign with loyalty discount
+9752-ZNQUT,0,0.5458,1,Medium,Targeted email campaign with loyalty discount
+4412-YLTKF,1,0.5443,1,Medium,Targeted email campaign with loyalty discount
+7056-IMHCC,1,0.5398,1,Medium,Targeted email campaign with loyalty discount
+3858-VOBET,1,0.5386,1,Medium,Targeted email campaign with loyalty discount
+9167-APMXZ,0,0.537,1,Medium,Targeted email campaign with loyalty discount
+8160-HOWOX,0,0.5356,1,Medium,Targeted email campaign with loyalty discount
+8778-LMWTJ,0,0.5348,1,Medium,Targeted email campaign with loyalty discount
+0876-WDUUZ,1,0.5343,1,Medium,Targeted email campaign with loyalty discount
+3365-SAIGS,0,0.534,1,Medium,Targeted email campaign with loyalty discount
+2041-JIJCI,0,0.533,1,Medium,Targeted email campaign with loyalty discount
+0958-YHXGP,0,0.5318,1,Medium,Targeted email campaign with loyalty discount
+2919-HBCJO,1,0.5301,1,Medium,Targeted email campaign with loyalty discount
+4818-QIUFN,1,0.53,1,Medium,Targeted email campaign with loyalty discount
+3891-PUQOD,1,0.5279,1,Medium,Targeted email campaign with loyalty discount
+0330-IVZHA,1,0.5231,1,Medium,Targeted email campaign with loyalty discount
+1236-WFCDV,1,0.5211,1,Medium,Targeted email campaign with loyalty discount
+7603-USHJS,1,0.5208,1,Medium,Targeted email campaign with loyalty discount
+1894-IGFSG,1,0.52,1,Medium,Targeted email campaign with loyalty discount
+1989-PRJHP,1,0.5197,1,Medium,Targeted email campaign with loyalty discount
+4706-DGAHW,0,0.5174,1,Medium,Targeted email campaign with loyalty discount
+1522-VVDMG,1,0.5167,1,Medium,Targeted email campaign with loyalty discount
+6331-LWDTQ,1,0.5157,1,Medium,Targeted email campaign with loyalty discount
+1092-GANHU,1,0.5144,1,Medium,Targeted email campaign with loyalty discount
+5606-AMZBO,0,0.5133,1,Medium,Targeted email campaign with loyalty discount
+5760-FXFVO,0,0.5131,1,Medium,Targeted email campaign with loyalty discount
+8280-MQRQN,1,0.513,1,Medium,Targeted email campaign with loyalty discount
+6651-AZVTJ,1,0.5113,1,Medium,Targeted email campaign with loyalty discount
+8938-UMKPI,1,0.5096,1,Medium,Targeted email campaign with loyalty discount
+8212-DJRCH,0,0.5096,1,Medium,Targeted email campaign with loyalty discount
+7410-YTJIK,1,0.5048,1,Medium,Targeted email campaign with loyalty discount
+3932-CMDTD,1,0.5038,1,Medium,Targeted email campaign with loyalty discount
+5889-JTMUL,1,0.5014,1,Medium,Targeted email campaign with loyalty discount
+3587-PMCOY,0,0.5011,1,Medium,Targeted email campaign with loyalty discount
+8059-UDZFY,0,0.5006,1,Medium,Targeted email campaign with loyalty discount
+1035-IPQPU,0,0.4964,1,Medium,Targeted email campaign with loyalty discount
+6158-HDPXZ,0,0.496,1,Medium,Targeted email campaign with loyalty discount
+0749-IRGQE,0,0.4941,1,Medium,Targeted email campaign with loyalty discount
+1536-HBSWP,0,0.494,1,Medium,Targeted email campaign with loyalty discount
+6661-HBGWL,1,0.4931,1,Medium,Targeted email campaign with loyalty discount
+6284-AHOOQ,1,0.4903,1,Medium,Targeted email campaign with loyalty discount
+4237-RLAQD,1,0.4889,1,Medium,Targeted email campaign with loyalty discount
+4248-QPAVC,1,0.4885,1,Medium,Targeted email campaign with loyalty discount
+6542-LWGXJ,0,0.4877,1,Medium,Targeted email campaign with loyalty discount
+2501-XWWTZ,0,0.4856,1,Medium,Targeted email campaign with loyalty discount
+1965-DDBWU,1,0.4856,1,Medium,Targeted email campaign with loyalty discount
+7663-RGWBC,1,0.4854,1,Medium,Targeted email campaign with loyalty discount
+4547-LYTDD,1,0.485,1,Medium,Targeted email campaign with loyalty discount
+7470-MCQTK,1,0.4838,1,Medium,Targeted email campaign with loyalty discount
+0952-KMEEH,1,0.4837,1,Medium,Targeted email campaign with loyalty discount
+7855-DIWPO,0,0.4789,1,Medium,Targeted email campaign with loyalty discount
+1902-XBTFB,1,0.4779,1,Medium,Targeted email campaign with loyalty discount
+8696-JKZNU,1,0.4777,1,Medium,Targeted email campaign with loyalty discount
+3658-KIBGF,1,0.4766,1,Medium,Targeted email campaign with loyalty discount
+2203-GHNWN,0,0.4761,1,Medium,Targeted email campaign with loyalty discount
+6377-WHAOX,0,0.4743,1,Medium,Targeted email campaign with loyalty discount
+8714-EUHJO,1,0.4726,1,Medium,Targeted email campaign with loyalty discount
+5022-JNQEQ,0,0.4704,1,Medium,Targeted email campaign with loyalty discount
+0682-USIXD,0,0.4698,1,Medium,Targeted email campaign with loyalty discount
+4581-LNWUM,0,0.4694,1,Medium,Targeted email campaign with loyalty discount
+5281-BUZGT,1,0.4691,1,Medium,Targeted email campaign with loyalty discount
+1335-NTIUC,0,0.4673,1,Medium,Targeted email campaign with loyalty discount
+5373-SFODM,1,0.4667,1,Medium,Targeted email campaign with loyalty discount
+6034-YMTOB,0,0.4648,1,Medium,Targeted email campaign with loyalty discount
+3237-AJGEH,1,0.4642,1,Medium,Targeted email campaign with loyalty discount
+9465-RWMXL,1,0.464,1,Medium,Targeted email campaign with loyalty discount
+2971-SGAFL,0,0.4618,1,Medium,Targeted email campaign with loyalty discount
+8058-DMYRU,0,0.46,1,Medium,Targeted email campaign with loyalty discount
+6481-ESCNL,0,0.4574,1,Medium,Targeted email campaign with loyalty discount
+2800-QQUSO,0,0.4567,1,Medium,Targeted email campaign with loyalty discount
+8785-CJSHH,0,0.4564,1,Medium,Targeted email campaign with loyalty discount
+2309-OSFEU,1,0.4555,1,Medium,Targeted email campaign with loyalty discount
+8378-LKJAF,0,0.4525,1,Medium,Targeted email campaign with loyalty discount
+7018-WBJNK,0,0.4519,1,Medium,Targeted email campaign with loyalty discount
+1452-KIOVK,0,0.4506,1,Medium,Targeted email campaign with loyalty discount
+5609-IMCGG,0,0.4505,1,Medium,Targeted email campaign with loyalty discount
+9992-UJOEL,0,0.4489,1,Medium,Targeted email campaign with loyalty discount
+2911-WDXMV,0,0.4488,1,Medium,Targeted email campaign with loyalty discount
+7460-ITWWP,0,0.4476,1,Medium,Targeted email campaign with loyalty discount
+0082-OQIQY,0,0.4463,1,Medium,Targeted email campaign with loyalty discount
+5226-NOZFC,0,0.4445,1,Medium,Targeted email campaign with loyalty discount
+9944-AEXBM,0,0.4435,1,Medium,Targeted email campaign with loyalty discount
+4154-AQUGT,1,0.4432,1,Medium,Targeted email campaign with loyalty discount
+1346-UFHAX,0,0.4421,1,Medium,Targeted email campaign with loyalty discount
+1436-ZMJAN,0,0.442,1,Medium,Targeted email campaign with loyalty discount
+9710-ZUSHQ,1,0.4407,1,Medium,Targeted email campaign with loyalty discount
+7529-ZDFXI,0,0.4403,1,Medium,Targeted email campaign with loyalty discount
+6557-BZXLQ,0,0.4402,1,Medium,Targeted email campaign with loyalty discount
+4840-ORQXB,0,0.4399,1,Medium,Targeted email campaign with loyalty discount
+9842-EFSYY,0,0.4361,1,Medium,Targeted email campaign with loyalty discount
+0256-LTHVJ,1,0.4338,1,Medium,Targeted email campaign with loyalty discount
+1833-TCXKK,0,0.433,1,Medium,Targeted email campaign with loyalty discount
+5650-YLIBA,0,0.4329,1,Medium,Targeted email campaign with loyalty discount
+9512-UIBFX,1,0.4325,1,Medium,Targeted email campaign with loyalty discount
+3312-ZWLGF,0,0.4321,1,Medium,Targeted email campaign with loyalty discount
+5016-IBERQ,0,0.4302,1,Medium,Targeted email campaign with loyalty discount
+2782-LFZVW,0,0.4292,1,Medium,Targeted email campaign with loyalty discount
+3524-WQDSG,0,0.4274,1,Medium,Targeted email campaign with loyalty discount
+7503-QQRVF,1,0.4274,1,Medium,Targeted email campaign with loyalty discount
+4947-DSMXK,0,0.4265,1,Medium,Targeted email campaign with loyalty discount
+4208-UFFGW,1,0.4259,1,Medium,Targeted email campaign with loyalty discount
+2955-BJZHG,1,0.4252,1,Medium,Targeted email campaign with loyalty discount
+6704-UTUKK,0,0.4239,1,Medium,Targeted email campaign with loyalty discount
+9927-DSWDF,0,0.4234,1,Medium,Targeted email campaign with loyalty discount
+5129-JLPIS,0,0.4222,1,Medium,Targeted email campaign with loyalty discount
+9576-SYUHJ,0,0.422,1,Medium,Targeted email campaign with loyalty discount
+6729-GDNGC,0,0.4211,1,Medium,Targeted email campaign with loyalty discount
+3331-HQDTW,1,0.4196,1,Medium,Targeted email campaign with loyalty discount
+8849-AYPTR,0,0.4187,1,Medium,Targeted email campaign with loyalty discount
+3197-ARFOY,0,0.416,1,Medium,Targeted email campaign with loyalty discount
+7579-OOPEC,1,0.4152,1,Medium,Targeted email campaign with loyalty discount
+3540-RZJYU,1,0.4143,1,Medium,Targeted email campaign with loyalty discount
+9732-KPKBW,1,0.4136,1,Medium,Targeted email campaign with loyalty discount
+8757-TFHHJ,0,0.4121,1,Medium,Targeted email campaign with loyalty discount
+1100-DDVRV,0,0.4112,1,Medium,Targeted email campaign with loyalty discount
+4619-EVPHY,0,0.4099,1,Medium,Targeted email campaign with loyalty discount
+0531-ZZJWQ,0,0.4094,1,Medium,Targeted email campaign with loyalty discount
+7055-HNEOJ,0,0.4093,1,Medium,Targeted email campaign with loyalty discount
+1541-ETJZO,1,0.4084,1,Medium,Targeted email campaign with loyalty discount
+3374-LXDEV,1,0.4053,1,Medium,Targeted email campaign with loyalty discount
+2070-FNEXE,1,0.4037,1,Medium,Targeted email campaign with loyalty discount
+0310-MVLET,1,0.4032,1,Medium,Targeted email campaign with loyalty discount
+7129-ACFOG,0,0.4027,1,Medium,Targeted email campaign with loyalty discount
+9450-TRJUU,0,0.4023,1,Medium,Targeted email campaign with loyalty discount
+3780-YVMFA,0,0.3996,1,Low,No action; include in standard satisfaction survey
+6834-NXDCA,1,0.3989,1,Low,No action; include in standard satisfaction survey
+2672-OJQZP,0,0.3973,1,Low,No action; include in standard satisfaction survey
+6173-GOLSU,0,0.3967,1,Low,No action; include in standard satisfaction survey
+6543-CPZMK,1,0.3958,1,Low,No action; include in standard satisfaction survey
+6402-EJMWF,0,0.3946,1,Low,No action; include in standard satisfaction survey
+1895-QTKDO,0,0.3923,1,Low,No action; include in standard satisfaction survey
+6022-UGGSO,1,0.3916,1,Low,No action; include in standard satisfaction survey
+8601-QACRS,1,0.3914,1,Low,No action; include in standard satisfaction survey
+5828-AVIPD,1,0.3906,1,Low,No action; include in standard satisfaction survey
+7277-OZCGZ,0,0.3903,1,Low,No action; include in standard satisfaction survey
+9286-DOJGF,1,0.3898,1,Low,No action; include in standard satisfaction survey
+3094-JOJAI,0,0.3893,1,Low,No action; include in standard satisfaction survey
+6128-AQBMT,0,0.3885,1,Low,No action; include in standard satisfaction survey
+9369-XFEHK,1,0.3881,1,Low,No action; include in standard satisfaction survey
+6710-HSJRD,0,0.3838,1,Low,No action; include in standard satisfaction survey
+2178-PMGCJ,0,0.3824,1,Low,No action; include in standard satisfaction survey
+1261-FWTTE,0,0.3815,1,Low,No action; include in standard satisfaction survey
+3569-EDBPQ,0,0.381,1,Low,No action; include in standard satisfaction survey
+2606-RMDHZ,1,0.3803,1,Low,No action; include in standard satisfaction survey
+3207-OYBWH,1,0.3781,1,Low,No action; include in standard satisfaction survey
+5651-YLPRD,0,0.3776,1,Low,No action; include in standard satisfaction survey
+1587-FKLZB,1,0.3769,1,Low,No action; include in standard satisfaction survey
+4329-YPDDQ,0,0.3749,1,Low,No action; include in standard satisfaction survey
+2604-IJPDU,0,0.3745,1,Low,No action; include in standard satisfaction survey
+4760-THGOT,0,0.3728,1,Low,No action; include in standard satisfaction survey
+7250-EQKIY,1,0.3721,1,Low,No action; include in standard satisfaction survey
+0265-PSUAE,0,0.3715,1,Low,No action; include in standard satisfaction survey
+3923-CSIHK,1,0.3704,1,Low,No action; include in standard satisfaction survey
+4660-IRIBM,0,0.3688,1,Low,No action; include in standard satisfaction survey
+8805-JNRAZ,0,0.3672,1,Low,No action; include in standard satisfaction survey
+4905-JEFDW,1,0.3671,1,Low,No action; include in standard satisfaction survey
+2960-NKRSO,0,0.3649,1,Low,No action; include in standard satisfaction survey
+0422-UXFAP,0,0.3632,1,Low,No action; include in standard satisfaction survey
+6711-VTNRE,1,0.3627,1,Low,No action; include in standard satisfaction survey
+3466-RITXD,0,0.3619,1,Low,No action; include in standard satisfaction survey
+7623-TRNQN,1,0.3603,1,Low,No action; include in standard satisfaction survey
+2692-PFYTJ,0,0.3586,1,Low,No action; include in standard satisfaction survey
+5630-AHZIL,0,0.3569,1,Low,No action; include in standard satisfaction survey
+0430-IHCDJ,0,0.3569,1,Low,No action; include in standard satisfaction survey
+0823-HSCDJ,1,0.3561,1,Low,No action; include in standard satisfaction survey
+0015-UOCOJ,0,0.3557,1,Low,No action; include in standard satisfaction survey
+5934-TSSAU,0,0.3555,1,Low,No action; include in standard satisfaction survey
+1465-LNTLJ,0,0.3548,1,Low,No action; include in standard satisfaction survey
+0410-IPFTY,0,0.3548,1,Low,No action; include in standard satisfaction survey
+7733-UDMTP,0,0.3532,1,Low,No action; include in standard satisfaction survey
+5419-KLXBN,1,0.3512,1,Low,No action; include in standard satisfaction survey
+1310-QRITU,0,0.3507,1,Low,No action; include in standard satisfaction survey
+0730-KOAVE,0,0.3476,1,Low,No action; include in standard satisfaction survey
+2386-OWURY,0,0.3446,1,Low,No action; include in standard satisfaction survey
+5301-GAUUY,1,0.3443,1,Low,No action; include in standard satisfaction survey
+4993-JCRGJ,0,0.3411,1,Low,No action; include in standard satisfaction survey
+3018-TFTSU,1,0.3398,1,Low,No action; include in standard satisfaction survey
+2277-VWCNI,0,0.3397,1,Low,No action; include in standard satisfaction survey
+4226-KKDON,0,0.3369,1,Low,No action; include in standard satisfaction survey
+0486-HECZI,1,0.3366,1,Low,No action; include in standard satisfaction survey
+3594-KADLU,0,0.3356,1,Low,No action; include in standard satisfaction survey
+2720-FVBQP,0,0.3347,1,Low,No action; include in standard satisfaction survey
+9079-YEXQJ,1,0.3307,1,Low,No action; include in standard satisfaction survey
+4983-CLMLV,0,0.3303,1,Low,No action; include in standard satisfaction survey
+0363-QJVFX,1,0.3266,1,Low,No action; include in standard satisfaction survey
+9089-UOWJG,0,0.3213,1,Low,No action; include in standard satisfaction survey
+6770-XUAGN,1,0.3211,1,Low,No action; include in standard satisfaction survey
+7504-UWHNB,0,0.32,1,Low,No action; include in standard satisfaction survey
+1357-BIJKI,0,0.3198,1,Low,No action; include in standard satisfaction survey
+9812-GHVRI,0,0.3194,1,Low,No action; include in standard satisfaction survey
+0979-PHULV,1,0.3194,1,Low,No action; include in standard satisfaction survey
+5213-TWWJU,0,0.3189,1,Low,No action; include in standard satisfaction survey
+3787-TRIAL,0,0.3182,1,Low,No action; include in standard satisfaction survey
+9112-WSNPU,0,0.3179,1,Low,No action; include in standard satisfaction survey
+4690-LLKUA,1,0.3178,1,Low,No action; include in standard satisfaction survey
+9544-PYPSJ,0,0.315,1,Low,No action; include in standard satisfaction survey
+2139-FQHLM,0,0.3133,1,Low,No action; include in standard satisfaction survey
+6646-QVXLR,1,0.313,1,Low,No action; include in standard satisfaction survey
+2478-EEWWM,0,0.3129,1,Low,No action; include in standard satisfaction survey
+7854-EKTJL,1,0.3112,1,Low,No action; include in standard satisfaction survey
+7067-KSAZT,1,0.3089,1,Low,No action; include in standard satisfaction survey
+6854-EXGSF,0,0.308,1,Low,No action; include in standard satisfaction survey
+0013-MHZWF,0,0.3074,1,Low,No action; include in standard satisfaction survey
+3173-NVMPX,0,0.305,1,Low,No action; include in standard satisfaction survey
+4067-HLYQI,0,0.3049,1,Low,No action; include in standard satisfaction survey
+8840-DQLGN,1,0.3021,1,Low,No action; include in standard satisfaction survey
+7669-LCRSD,0,0.3011,1,Low,No action; include in standard satisfaction survey
+1205-WNWPJ,1,0.2987,1,Low,No action; include in standard satisfaction survey
+1169-WCVAK,0,0.2987,1,Low,No action; include in standard satisfaction survey
+8033-VCZGH,0,0.2985,1,Low,No action; include in standard satisfaction survey
+4323-SADQS,1,0.2982,1,Low,No action; include in standard satisfaction survey
+0058-EVZWM,0,0.2963,1,Low,No action; include in standard satisfaction survey
+6234-PFPXL,0,0.296,1,Low,No action; include in standard satisfaction survey
+5575-TPIZQ,0,0.2957,1,Low,No action; include in standard satisfaction survey
+9700-ISPUP,0,0.2956,1,Low,No action; include in standard satisfaction survey
+9537-VHDTA,0,0.2929,1,Low,No action; include in standard satisfaction survey
+1559-DTODC,0,0.2924,1,Low,No action; include in standard satisfaction survey
+6227-HWPWX,1,0.2918,1,Low,No action; include in standard satisfaction survey
+4724-WXVWF,0,0.2904,1,Low,No action; include in standard satisfaction survey
+5136-GFPMB,0,0.2893,1,Low,No action; include in standard satisfaction survey
+3466-WAESX,0,0.2884,1,Low,No action; include in standard satisfaction survey
+5804-HYIEZ,0,0.2873,1,Low,No action; include in standard satisfaction survey
+0471-ARVMX,0,0.2829,1,Low,No action; include in standard satisfaction survey
+3567-PQTSO,0,0.2823,1,Low,No action; include in standard satisfaction survey
+1493-AMTIE,1,0.2821,1,Low,No action; include in standard satisfaction survey
+1240-KNSEZ,1,0.2819,1,Low,No action; include in standard satisfaction survey
+2369-FEVNO,0,0.2816,1,Low,No action; include in standard satisfaction survey
+4667-OHGKG,1,0.2806,1,Low,No action; include in standard satisfaction survey
+1087-UDSIH,1,0.2791,1,Low,No action; include in standard satisfaction survey
+7426-WEIJX,0,0.2789,1,Low,No action; include in standard satisfaction survey
+7853-WNZSY,0,0.2785,1,Low,No action; include in standard satisfaction survey
+8620-RJPZN,0,0.2768,1,Low,No action; include in standard satisfaction survey
+2279-AXJJK,0,0.2748,1,Low,No action; include in standard satisfaction survey
+8992-CEUEN,0,0.2737,1,Low,No action; include in standard satisfaction survey
+7251-LJBQN,0,0.2735,1,Low,No action; include in standard satisfaction survey
+2770-NSVDG,0,0.2726,1,Low,No action; include in standard satisfaction survey
+7893-IXHRQ,1,0.2707,1,Low,No action; include in standard satisfaction survey
+2522-AHJXR,0,0.2701,1,Low,No action; include in standard satisfaction survey
+9767-FFLEM,0,0.2699,1,Low,No action; include in standard satisfaction survey
+8713-IGZSO,0,0.269,1,Low,No action; include in standard satisfaction survey
+1370-GGAWX,0,0.2688,1,Low,No action; include in standard satisfaction survey
+4672-FOTSD,0,0.2683,1,Low,No action; include in standard satisfaction survey
+4693-VWVBO,0,0.2676,1,Low,No action; include in standard satisfaction survey
+2669-QVCRG,0,0.2663,1,Low,No action; include in standard satisfaction survey
+2293-IJWPS,0,0.2662,1,Low,No action; include in standard satisfaction survey
+6769-DYBQN,1,0.265,1,Low,No action; include in standard satisfaction survey
+2480-SQIOB,0,0.2639,1,Low,No action; include in standard satisfaction survey
+1550-LOAHA,1,0.2623,1,Low,No action; include in standard satisfaction survey
+9481-SFCQY,0,0.2618,1,Low,No action; include in standard satisfaction survey
+2190-BCXEC,0,0.2616,1,Low,No action; include in standard satisfaction survey
+7398-LXGYX,0,0.2599,1,Low,No action; include in standard satisfaction survey
+6284-KMNUF,0,0.2598,1,Low,No action; include in standard satisfaction survey
+8728-SKJLR,0,0.2591,1,Low,No action; include in standard satisfaction survey
+1174-FGIFN,0,0.2577,1,Low,No action; include in standard satisfaction survey
+6874-SGLHU,0,0.2562,1,Low,No action; include in standard satisfaction survey
+3756-VNWDH,0,0.2558,1,Low,No action; include in standard satisfaction survey
+7124-UGSUR,1,0.255,1,Low,No action; include in standard satisfaction survey
+0431-APWVY,1,0.2549,1,Low,No action; include in standard satisfaction survey
+7750-EYXWZ,0,0.2547,1,Low,No action; include in standard satisfaction survey
+2480-EJWYP,0,0.2546,1,Low,No action; include in standard satisfaction survey
+4640-UHDOS,1,0.2532,1,Low,No action; include in standard satisfaction survey
+1848-LBZHY,0,0.2528,1,Low,No action; include in standard satisfaction survey
+1074-AMIOH,0,0.2516,1,Low,No action; include in standard satisfaction survey
+1360-JYXKQ,0,0.2515,1,Low,No action; include in standard satisfaction survey
+5438-QMDDL,0,0.2509,1,Low,No action; include in standard satisfaction survey
+5402-HTOTQ,0,0.2466,1,Low,No action; include in standard satisfaction survey
+6713-OKOMC,0,0.2463,1,Low,No action; include in standard satisfaction survey
+2195-VVRJF,0,0.2447,1,Low,No action; include in standard satisfaction survey
+6559-RAKOZ,0,0.2445,1,Low,No action; include in standard satisfaction survey
+1217-VASWC,0,0.2418,1,Low,No action; include in standard satisfaction survey
+0913-XWSCN,0,0.2411,1,Low,No action; include in standard satisfaction survey
+9374-YOLBJ,0,0.2395,1,Low,No action; include in standard satisfaction survey
+1470-PSXNM,0,0.239,1,Low,No action; include in standard satisfaction survey
+2778-OCLGR,1,0.2358,1,Low,No action; include in standard satisfaction survey
+3604-WLABM,0,0.2351,1,Low,No action; include in standard satisfaction survey
+4695-VADHF,1,0.2331,1,Low,No action; include in standard satisfaction survey
+1575-KRZZE,0,0.231,1,Low,No action; include in standard satisfaction survey
+8455-HIRAQ,0,0.2291,1,Low,No action; include in standard satisfaction survey
+6777-TGHTM,1,0.2276,1,Low,No action; include in standard satisfaction survey
+0959-WHOKV,0,0.2265,1,Low,No action; include in standard satisfaction survey
+1110-KYLGQ,0,0.2248,1,Low,No action; include in standard satisfaction survey
+7957-RYHQD,1,0.2242,1,Low,No action; include in standard satisfaction survey
+4256-ZWTZI,0,0.2237,1,Low,No action; include in standard satisfaction survey
+0668-OGMHD,0,0.2235,1,Low,No action; include in standard satisfaction survey
+4819-HJPIW,0,0.2232,1,Low,No action; include in standard satisfaction survey
+7629-WIXZF,0,0.2228,1,Low,No action; include in standard satisfaction survey
+5136-RGMZO,0,0.2218,1,Low,No action; include in standard satisfaction survey
+5198-EFNBM,0,0.2204,1,Low,No action; include in standard satisfaction survey
+9327-QSDED,0,0.2199,1,Low,No action; include in standard satisfaction survey
+6773-LQTVT,0,0.2196,1,Low,No action; include in standard satisfaction survey
+8190-ZTQFB,0,0.2194,1,Low,No action; include in standard satisfaction survey
+6366-XIVKZ,0,0.2193,1,Low,No action; include in standard satisfaction survey
+3982-XWFZQ,1,0.2188,1,Low,No action; include in standard satisfaction survey
+3325-FUYCG,1,0.2174,1,Low,No action; include in standard satisfaction survey
+3179-GBRWV,0,0.2173,1,Low,No action; include in standard satisfaction survey
+2391-SOORI,1,0.2169,1,Low,No action; include in standard satisfaction survey
+6270-OMFIW,1,0.2167,1,Low,No action; include in standard satisfaction survey
+4524-QCSSM,0,0.2165,1,Low,No action; include in standard satisfaction survey
+7395-XWZOY,0,0.2149,1,Low,No action; include in standard satisfaction survey
+1963-VAUKV,1,0.2149,1,Low,No action; include in standard satisfaction survey
+6654-QGBZZ,0,0.2142,1,Low,No action; include in standard satisfaction survey
+7017-VFULY,0,0.2131,1,Low,No action; include in standard satisfaction survey
+4701-AHWMW,1,0.2111,1,Low,No action; include in standard satisfaction survey
+2839-RFSQE,1,0.2107,1,Low,No action; include in standard satisfaction survey
+2108-YKQTY,1,0.2107,1,Low,No action; include in standard satisfaction survey
+4013-GUXND,0,0.2106,1,Low,No action; include in standard satisfaction survey
+3976-NLDEZ,0,0.2103,1,Low,No action; include in standard satisfaction survey
+4211-MMAZN,1,0.2098,1,Low,No action; include in standard satisfaction survey
+8749-CLJXC,0,0.2095,1,Low,No action; include in standard satisfaction survey
+6890-PFRQX,0,0.2094,1,Low,No action; include in standard satisfaction survey
+6286-SUUWT,0,0.2094,1,Low,No action; include in standard satisfaction survey
+4892-VLANZ,1,0.2092,1,Low,No action; include in standard satisfaction survey
+6483-OATDN,0,0.2092,1,Low,No action; include in standard satisfaction survey
+3930-ZGWVE,0,0.2091,1,Low,No action; include in standard satisfaction survey
+7239-HZZCX,1,0.2091,1,Low,No action; include in standard satisfaction survey
+1194-SPVSP,0,0.209,1,Low,No action; include in standard satisfaction survey
+4468-YDOVK,0,0.2088,1,Low,No action; include in standard satisfaction survey
+5766-ZJYBB,1,0.2087,1,Low,No action; include in standard satisfaction survey
+0816-TSPHQ,0,0.2083,1,Low,No action; include in standard satisfaction survey
+7054-ENNGU,0,0.2078,1,Low,No action; include in standard satisfaction survey
+4396-KLSEH,0,0.2075,1,Low,No action; include in standard satisfaction survey
+3780-DDGSE,0,0.2075,1,Low,No action; include in standard satisfaction survey
+9254-RBFON,1,0.2069,1,Low,No action; include in standard satisfaction survey
+0365-TRTPY,0,0.2067,1,Low,No action; include in standard satisfaction survey
+1051-GEJLJ,0,0.2055,1,Low,No action; include in standard satisfaction survey
+5949-EBSQK,1,0.2003,1,Low,No action; include in standard satisfaction survey
+0733-VUNUW,1,0.2001,1,Low,No action; include in standard satisfaction survey
+9163-GHAYE,0,0.1994,1,Low,No action; include in standard satisfaction survey
+4003-FUSHP,0,0.1993,1,Low,No action; include in standard satisfaction survey
+2087-QAREY,0,0.1967,1,Low,No action; include in standard satisfaction survey
+7134-MJPDY,0,0.1955,1,Low,No action; include in standard satisfaction survey
+3339-EAQNV,0,0.1939,1,Low,No action; include in standard satisfaction survey
+8495-PRWFH,0,0.1938,1,Low,No action; include in standard satisfaction survey
+5533-RJFTJ,0,0.1935,1,Low,No action; include in standard satisfaction survey
+5482-NUPNA,1,0.192,1,Low,No action; include in standard satisfaction survey
+3865-ZYKAD,0,0.1907,1,Low,No action; include in standard satisfaction survey
+3639-XJHKQ,0,0.1903,1,Low,No action; include in standard satisfaction survey
+9701-CDXHR,0,0.1895,1,Low,No action; include in standard satisfaction survey
+2995-UPRYS,1,0.1882,1,Low,No action; include in standard satisfaction survey
+5469-CTCWN,1,0.1872,1,Low,No action; include in standard satisfaction survey
+3858-XHYJO,0,0.1864,1,Low,No action; include in standard satisfaction survey
+9844-FELAJ,0,0.1853,1,Low,No action; include in standard satisfaction survey
+9962-BFPDU,0,0.1852,1,Low,No action; include in standard satisfaction survey
+4184-VODJZ,0,0.1841,1,Low,No action; include in standard satisfaction survey
+1707-HABPF,0,0.1839,1,Low,No action; include in standard satisfaction survey
+7130-CTCUS,0,0.1829,1,Low,No action; include in standard satisfaction survey
+9033-EOXWV,1,0.1827,1,Low,No action; include in standard satisfaction survey
+5140-FOMCQ,0,0.1825,1,Low,No action; include in standard satisfaction survey
+9972-VAFJJ,0,0.1816,1,Low,No action; include in standard satisfaction survey
+2252-JHJGE,0,0.1813,1,Low,No action; include in standard satisfaction survey
+7789-CRUVC,0,0.1805,1,Low,No action; include in standard satisfaction survey
+0742-MOABM,1,0.18,1,Low,No action; include in standard satisfaction survey
+5473-KHBPS,0,0.1786,1,Low,No action; include in standard satisfaction survey
+4402-FTBXC,0,0.1781,1,Low,No action; include in standard satisfaction survey
+0447-BEMNG,1,0.1781,1,Low,No action; include in standard satisfaction survey
+7919-ZODZZ,0,0.1763,1,Low,No action; include in standard satisfaction survey
+2843-CQMEG,0,0.1763,1,Low,No action; include in standard satisfaction survey
+5951-AOFIH,0,0.1762,1,Low,No action; include in standard satisfaction survey
+4377-VDHYI,0,0.1758,1,Low,No action; include in standard satisfaction survey
+0516-OOHAR,0,0.1739,1,Low,No action; include in standard satisfaction survey
+2091-MJTFX,1,0.1738,1,Low,No action; include in standard satisfaction survey
+8433-WPJTV,0,0.1733,1,Low,No action; include in standard satisfaction survey
+8970-ANWXO,0,0.1727,1,Low,No action; include in standard satisfaction survey
+3896-RCYYE,0,0.1719,1,Low,No action; include in standard satisfaction survey
+0895-LMRSF,0,0.1717,1,Low,No action; include in standard satisfaction survey
+2750-BJLSB,0,0.169,1,Low,No action; include in standard satisfaction survey
+9139-WQQDY,1,0.1685,1,Low,No action; include in standard satisfaction survey
+4075-JFPGR,0,0.168,1,Low,No action; include in standard satisfaction survey
+4016-BJKTZ,0,0.1656,1,Low,No action; include in standard satisfaction survey
+7266-GSSJX,0,0.1639,1,Low,No action; include in standard satisfaction survey
+3794-NFNCH,0,0.1625,1,Low,No action; include in standard satisfaction survey
+6733-LRIZX,0,0.161,1,Low,No action; include in standard satisfaction survey
+2758-RNWXS,0,0.1597,1,Low,No action; include in standard satisfaction survey
+3694-GLTJM,0,0.159,1,Low,No action; include in standard satisfaction survey
+0440-QEXBZ,0,0.1587,1,Low,No action; include in standard satisfaction survey
+6421-SZVEM,0,0.1577,1,Low,No action; include in standard satisfaction survey
+5240-CAOYT,0,0.1575,1,Low,No action; include in standard satisfaction survey
+5921-NGYRH,0,0.1566,1,Low,No action; include in standard satisfaction survey
+9909-DFRJA,0,0.1545,1,Low,No action; include in standard satisfaction survey
+9788-YTFGE,0,0.1535,1,Low,No action; include in standard satisfaction survey
+3847-BAERP,0,0.152,1,Low,No action; include in standard satisfaction survey
+0048-LUMLS,0,0.1507,1,Low,No action; include in standard satisfaction survey
+4190-MFLUW,1,0.1502,1,Low,No action; include in standard satisfaction survey
+9565-JSNFM,1,0.1484,1,Low,No action; include in standard satisfaction survey
+2748-MYRVK,1,0.1483,1,Low,No action; include in standard satisfaction survey
+1784-BXEFA,0,0.1482,1,Low,No action; include in standard satisfaction survey
+1385-TQOZW,0,0.1475,1,Low,No action; include in standard satisfaction survey
+9138-EFSMO,0,0.1474,1,Low,No action; include in standard satisfaction survey
+0516-UXRMT,0,0.1439,1,Low,No action; include in standard satisfaction survey
+6258-NGCNG,0,0.1427,1,Low,No action; include in standard satisfaction survey
+7879-CGSFV,0,0.1427,1,Low,No action; include in standard satisfaction survey
+1852-XEMDW,0,0.1415,1,Low,No action; include in standard satisfaction survey
+0743-HRVFF,0,0.1405,1,Low,No action; include in standard satisfaction survey
+5709-LVOEQ,0,0.1403,1,Low,No action; include in standard satisfaction survey
+8849-GYOKR,1,0.1402,1,Low,No action; include in standard satisfaction survey
+1855-CFULU,0,0.1393,1,Low,No action; include in standard satisfaction survey
+1346-PJWTK,0,0.1377,1,Low,No action; include in standard satisfaction survey
+5014-WUQMG,0,0.1364,1,Low,No action; include in standard satisfaction survey
+5440-VHLUL,0,0.1356,1,Low,No action; include in standard satisfaction survey
+1530-ZTDOZ,0,0.135,1,Low,No action; include in standard satisfaction survey
+5966-EMAZU,0,0.1344,1,Low,No action; include in standard satisfaction survey
+1629-DQQVB,0,0.1343,1,Low,No action; include in standard satisfaction survey
+8034-RYTVV,0,0.1335,1,Low,No action; include in standard satisfaction survey
+2969-WGHQO,0,0.1335,1,Low,No action; include in standard satisfaction survey
+4332-MUOEZ,0,0.1334,1,Low,No action; include in standard satisfaction survey
+2972-YDYUW,0,0.1321,1,Low,No action; include in standard satisfaction survey
+6900-RBKER,0,0.1311,1,Low,No action; include in standard satisfaction survey
+9633-DENPU,0,0.1311,1,Low,No action; include in standard satisfaction survey
+0665-XHDJU,0,0.1301,1,Low,No action; include in standard satisfaction survey
+2212-LYASK,0,0.13,1,Low,No action; include in standard satisfaction survey
+9115-YQHGA,0,0.1285,1,Low,No action; include in standard satisfaction survey
+9378-FXTIZ,1,0.1282,1,Low,No action; include in standard satisfaction survey
+5808-TOTXO,0,0.128,1,Low,No action; include in standard satisfaction survey
+3948-FVVRP,0,0.1273,1,Low,No action; include in standard satisfaction survey
+8582-KRHPJ,0,0.1271,1,Low,No action; include in standard satisfaction survey
+2001-EWBQU,0,0.1265,1,Low,No action; include in standard satisfaction survey
+9480-BQJEI,0,0.1257,1,Low,No action; include in standard satisfaction survey
+9039-RBEEE,1,0.1247,1,Low,No action; include in standard satisfaction survey
+1492-QGCLU,0,0.124,1,Low,No action; include in standard satisfaction survey
+9013-AQORL,0,0.1237,1,Low,No action; include in standard satisfaction survey
+8401-EMUWF,0,0.1232,1,Low,No action; include in standard satisfaction survey
+4946-EDSEW,1,0.1227,1,Low,No action; include in standard satisfaction survey
+5446-DKWYW,0,0.1227,1,Low,No action; include in standard satisfaction survey
+4785-QRJHC,1,0.1202,1,Low,No action; include in standard satisfaction survey
+0440-UEDAI,0,0.1195,1,Low,No action; include in standard satisfaction survey
+7159-NOKYQ,0,0.1189,1,Low,No action; include in standard satisfaction survey
+2040-OBMLJ,0,0.1187,1,Low,No action; include in standard satisfaction survey
+3096-WPXBT,0,0.1182,1,Low,No action; include in standard satisfaction survey
+0257-KXZGU,0,0.1178,1,Low,No action; include in standard satisfaction survey
+4489-SNOJF,1,0.1175,1,Low,No action; include in standard satisfaction survey
+3729-OWRVL,0,0.1173,1,Low,No action; include in standard satisfaction survey
+7572-KPVKK,0,0.1169,1,Low,No action; include in standard satisfaction survey
+2307-FYNNL,0,0.1162,1,Low,No action; include in standard satisfaction survey
+6112-KTHFQ,0,0.1158,1,Low,No action; include in standard satisfaction survey
+4002-BQWPQ,0,0.1151,1,Low,No action; include in standard satisfaction survey
+4079-VTGLK,0,0.1145,1,Low,No action; include in standard satisfaction survey
+2250-IVBWA,0,0.1144,1,Low,No action; include in standard satisfaction survey
+5850-BDWCY,0,0.1139,1,Low,No action; include in standard satisfaction survey
+3733-UOCWF,0,0.1136,1,Low,No action; include in standard satisfaction survey
+3675-EQOZA,0,0.1122,1,Low,No action; include in standard satisfaction survey
+2159-TURXX,0,0.1108,1,Low,No action; include in standard satisfaction survey
+9128-CPXKI,0,0.1101,1,Low,No action; include in standard satisfaction survey
+5566-SOEZD,0,0.1092,1,Low,No action; include in standard satisfaction survey
+3571-DPYUH,0,0.1085,1,Low,No action; include in standard satisfaction survey
+6297-NOOPG,0,0.1083,1,Low,No action; include in standard satisfaction survey
+2272-WUSPA,0,0.1074,1,Low,No action; include in standard satisfaction survey
+5360-LJCNJ,0,0.1073,1,Low,No action; include in standard satisfaction survey
+0076-LVEPS,0,0.1067,1,Low,No action; include in standard satisfaction survey
+2233-TXSIU,0,0.1063,1,Low,No action; include in standard satisfaction survey
+7356-AYNJP,0,0.1056,1,Low,No action; include in standard satisfaction survey
+7997-EASSD,0,0.105,1,Low,No action; include in standard satisfaction survey
+4759-PXTAN,0,0.1048,1,Low,No action; include in standard satisfaction survey
+8909-BOLNL,0,0.1048,1,Low,No action; include in standard satisfaction survey
+5081-NWSUP,0,0.1047,1,Low,No action; include in standard satisfaction survey
+6242-SGYTS,0,0.1042,1,Low,No action; include in standard satisfaction survey
+5863-OOKCL,0,0.1036,1,Low,No action; include in standard satisfaction survey
+2001-MCUUW,0,0.1034,1,Low,No action; include in standard satisfaction survey
+6598-RFFVI,1,0.1033,1,Low,No action; include in standard satisfaction survey
+1131-SUEKT,0,0.1026,1,Low,No action; include in standard satisfaction survey
+6838-HVLXG,0,0.1021,1,Low,No action; include in standard satisfaction survey
+2428-ZMCTB,0,0.1018,1,Low,No action; include in standard satisfaction survey
+8089-UZWLX,0,0.1006,1,Low,No action; include in standard satisfaction survey
+0289-IVARM,0,0.0993,1,Low,No action; include in standard satisfaction survey
+5025-GOOKI,0,0.0989,1,Low,No action; include in standard satisfaction survey
+0997-YTLNY,0,0.0988,1,Low,No action; include in standard satisfaction survey
+3594-UVONA,1,0.0985,1,Low,No action; include in standard satisfaction survey
+9330-VOFSZ,0,0.0979,1,Low,No action; include in standard satisfaction survey
+0297-RBCSG,0,0.0973,1,Low,No action; include in standard satisfaction survey
+7691-XVTZH,0,0.0971,1,Low,No action; include in standard satisfaction survey
+3623-FQBOX,0,0.097,1,Low,No action; include in standard satisfaction survey
+8457-XIGKN,0,0.0967,1,Low,No action; include in standard satisfaction survey
+4419-UJMUS,0,0.0959,1,Low,No action; include in standard satisfaction survey
+3077-RSNTJ,0,0.0958,1,Low,No action; include in standard satisfaction survey
+1395-OFUWC,0,0.0954,1,Low,No action; include in standard satisfaction survey
+8646-JCOMS,0,0.0952,1,Low,No action; include in standard satisfaction survey
+6784-XYJAE,0,0.0949,1,Low,No action; include in standard satisfaction survey
+2165-VOEGB,1,0.0948,1,Low,No action; include in standard satisfaction survey
+9715-WZCLW,0,0.0948,1,Low,No action; include in standard satisfaction survey
+9143-CANJF,0,0.0938,1,Low,No action; include in standard satisfaction survey
+2129-ALKBS,0,0.0937,1,Low,No action; include in standard satisfaction survey
+2239-CFOUJ,0,0.0933,1,Low,No action; include in standard satisfaction survey
+5857-XRECV,0,0.093,1,Low,No action; include in standard satisfaction survey
+4501-UYKBC,0,0.0926,1,Low,No action; include in standard satisfaction survey
+6075-QMNRR,0,0.0926,1,Low,No action; include in standard satisfaction survey
+9822-BIIGN,0,0.0922,1,Low,No action; include in standard satisfaction survey
+2967-MXRAV,0,0.0921,1,Low,No action; include in standard satisfaction survey
+3324-OIRTO,0,0.0912,1,Low,No action; include in standard satisfaction survey
+2533-QVMSK,1,0.091,1,Low,No action; include in standard satisfaction survey
+5445-PZWGX,1,0.0909,1,Low,No action; include in standard satisfaction survey
+4464-JCOLN,1,0.0904,1,Low,No action; include in standard satisfaction survey
+4353-HYOJD,0,0.0901,1,Low,No action; include in standard satisfaction survey
+9405-GPBBG,0,0.0894,1,Low,No action; include in standard satisfaction survey
+5027-YOCXN,0,0.0893,1,Low,No action; include in standard satisfaction survey
+2958-NHPPS,0,0.0891,1,Low,No action; include in standard satisfaction survey
+7666-WKRON,1,0.0891,1,Low,No action; include in standard satisfaction survey
+0377-JBKKT,0,0.0887,1,Low,No action; include in standard satisfaction survey
+8735-NBLWT,0,0.0887,1,Low,No action; include in standard satisfaction survey
+5297-MDOIR,0,0.0884,1,Low,No action; include in standard satisfaction survey
+9308-ANMVE,0,0.0882,1,Low,No action; include in standard satisfaction survey
+2930-UOTMB,1,0.0863,1,Low,No action; include in standard satisfaction survey
+1744-JHKYS,0,0.0855,1,Low,No action; include in standard satisfaction survey
+7036-TYDEC,0,0.0853,1,Low,No action; include in standard satisfaction survey
+3181-MIZBN,0,0.0852,1,Low,No action; include in standard satisfaction survey
+0106-UGRDO,0,0.0851,1,Low,No action; include in standard satisfaction survey
+6933-FHBZC,0,0.084,1,Low,No action; include in standard satisfaction survey
+1545-JFUML,0,0.0815,1,Low,No action; include in standard satisfaction survey
+1136-XGEQU,0,0.0813,1,Low,No action; include in standard satisfaction survey
+5514-YQENT,0,0.0812,1,Low,No action; include in standard satisfaction survey
+7654-YWJUF,0,0.0808,1,Low,No action; include in standard satisfaction survey
+7641-TQFHN,0,0.08,1,Low,No action; include in standard satisfaction survey
+8780-RSYYU,0,0.0796,1,Low,No action; include in standard satisfaction survey
+0164-APGRB,0,0.079,1,Low,No action; include in standard satisfaction survey
+6968-URWQU,0,0.0787,1,Low,No action; include in standard satisfaction survey
+4137-JOPHL,0,0.0786,1,Low,No action; include in standard satisfaction survey
+7311-MQJCH,0,0.0779,1,Low,No action; include in standard satisfaction survey
+1730-VFMWO,0,0.0776,1,Low,No action; include in standard satisfaction survey
+2926-JEJJC,0,0.0772,1,Low,No action; include in standard satisfaction survey
+9866-OCCKE,0,0.0772,1,Low,No action; include in standard satisfaction survey
+2746-DIJLO,0,0.0768,1,Low,No action; include in standard satisfaction survey
+9972-NKTFD,0,0.0765,1,Low,No action; include in standard satisfaction survey
+7520-HQWJU,0,0.0759,1,Low,No action; include in standard satisfaction survey
+1729-VLAZJ,0,0.0746,1,Low,No action; include in standard satisfaction survey
+7233-IOQNP,0,0.074,1,Low,No action; include in standard satisfaction survey
+6682-QJDGB,1,0.0739,1,Low,No action; include in standard satisfaction survey
+9052-DHNKM,0,0.0733,1,Low,No action; include in standard satisfaction survey
+9906-NHHVC,0,0.0732,1,Low,No action; include in standard satisfaction survey
+8819-ZBYNA,0,0.0731,1,Low,No action; include in standard satisfaction survey
+3301-VKTGC,0,0.073,1,Low,No action; include in standard satisfaction survey
+2408-PSJVE,0,0.072,1,Low,No action; include in standard satisfaction survey
+1097-FSPVW,0,0.0718,1,Low,No action; include in standard satisfaction survey
+5537-UXXVS,0,0.0707,1,Low,No action; include in standard satisfaction survey
+5018-LXQQG,0,0.0707,1,Low,No action; include in standard satisfaction survey
+1036-GUDCL,0,0.0704,1,Low,No action; include in standard satisfaction survey
+5271-YNWVR,1,0.07,1,Low,No action; include in standard satisfaction survey
+2834-JKOOW,0,0.0693,1,Low,No action; include in standard satisfaction survey
+9917-KWRBE,0,0.0683,1,Low,No action; include in standard satisfaction survey
+0628-CNQRM,1,0.0681,1,Low,No action; include in standard satisfaction survey
+8015-IHCGW,0,0.0666,1,Low,No action; include in standard satisfaction survey
+0134-XWXCE,0,0.0657,1,Low,No action; include in standard satisfaction survey
+2323-ARSVR,0,0.0643,1,Low,No action; include in standard satisfaction survey
+5236-XMZJY,0,0.0643,1,Low,No action; include in standard satisfaction survey
+9351-HXDMR,0,0.0634,1,Low,No action; include in standard satisfaction survey
+7032-LMBHI,0,0.0633,1,Low,No action; include in standard satisfaction survey
+2798-NYLMZ,0,0.0632,1,Low,No action; include in standard satisfaction survey
+8400-WZICQ,0,0.063,1,Low,No action; include in standard satisfaction survey
+8777-PVYGU,0,0.0629,1,Low,No action; include in standard satisfaction survey
+3115-CZMZD,0,0.0626,1,Low,No action; include in standard satisfaction survey
+7010-ZMVBF,0,0.0621,1,Low,No action; include in standard satisfaction survey
+2877-VDUER,0,0.0608,1,Low,No action; include in standard satisfaction survey
+0019-EFAEP,0,0.0607,1,Low,No action; include in standard satisfaction survey
+5975-BAICR,0,0.0606,1,Low,No action; include in standard satisfaction survey
+2522-WLNSF,0,0.0603,1,Low,No action; include in standard satisfaction survey
+8591-TKMZH,0,0.0597,1,Low,No action; include in standard satisfaction survey
+2368-GAKKQ,0,0.0596,1,Low,No action; include in standard satisfaction survey
+3766-EJLFL,0,0.0594,1,Low,No action; include in standard satisfaction survey
+5524-KHNJP,0,0.059,1,Low,No action; include in standard satisfaction survey
+0727-BNRLG,0,0.0584,1,Low,No action; include in standard satisfaction survey
+6797-LNAQX,1,0.0584,1,Low,No action; include in standard satisfaction survey
+9298-WGMRW,0,0.0579,1,Low,No action; include in standard satisfaction survey
+3530-VWVGU,0,0.0571,1,Low,No action; include in standard satisfaction survey
+2171-UDMFD,0,0.0571,1,Low,No action; include in standard satisfaction survey
+9220-ZNKJI,0,0.0562,1,Low,No action; include in standard satisfaction survey
+5049-MUBWG,0,0.056,1,Low,No action; include in standard satisfaction survey
+5753-QQWPW,0,0.056,1,Low,No action; include in standard satisfaction survey
+0983-TATYJ,0,0.056,1,Low,No action; include in standard satisfaction survey
+5619-XZZKR,0,0.056,1,Low,No action; include in standard satisfaction survey
+4627-MIHJH,0,0.0556,1,Low,No action; include in standard satisfaction survey
+6919-ELBGL,0,0.0556,1,Low,No action; include in standard satisfaction survey
+7191-ADRGF,0,0.0551,1,Low,No action; include in standard satisfaction survey
+9637-CDTKZ,0,0.0549,1,Low,No action; include in standard satisfaction survey
+1936-CZAKF,0,0.0541,1,Low,No action; include in standard satisfaction survey
+0074-HDKDG,0,0.0536,1,Low,No action; include in standard satisfaction survey
+8024-XNAFQ,0,0.0536,1,Low,No action; include in standard satisfaction survey
+4378-MYPGO,0,0.0533,1,Low,No action; include in standard satisfaction survey
+9313-QOLTZ,0,0.0533,1,Low,No action; include in standard satisfaction survey
+3442-ZHHCC,0,0.0528,1,Low,No action; include in standard satisfaction survey
+9412-ARGBX,1,0.0523,1,Low,No action; include in standard satisfaction survey
+1952-DVVSW,0,0.0519,1,Low,No action; include in standard satisfaction survey
+8573-JGCZW,0,0.0515,1,Low,No action; include in standard satisfaction survey
+6445-TNRXS,0,0.0514,1,Low,No action; include in standard satisfaction survey
+4717-GHADL,0,0.0504,1,Low,No action; include in standard satisfaction survey
+3396-DKDEL,0,0.0503,1,Low,No action; include in standard satisfaction survey
+2511-MORQY,0,0.05,0,Low,No action; include in standard satisfaction survey
+8727-XDPUD,0,0.0496,0,Low,No action; include in standard satisfaction survey
+7838-LAZFO,0,0.0494,0,Low,No action; include in standard satisfaction survey
+8570-KLJYJ,0,0.0494,0,Low,No action; include in standard satisfaction survey
+5204-HMGYF,0,0.049,0,Low,No action; include in standard satisfaction survey
+9313-CDOGY,0,0.0484,0,Low,No action; include in standard satisfaction survey
+0017-IUDMW,0,0.0483,0,Low,No action; include in standard satisfaction survey
+0866-QLSIR,1,0.0481,0,Low,No action; include in standard satisfaction survey
+9640-ZSLDC,0,0.0481,0,Low,No action; include in standard satisfaction survey
+5062-CJJKH,0,0.0473,0,Low,No action; include in standard satisfaction survey
+7471-MQPOS,0,0.0471,0,Low,No action; include in standard satisfaction survey
+9860-LISIZ,0,0.0469,0,Low,No action; include in standard satisfaction survey
+1741-WTPON,0,0.0468,0,Low,No action; include in standard satisfaction survey
+0868-VJRDR,0,0.0464,0,Low,No action; include in standard satisfaction survey
+7762-ONLJY,0,0.0462,0,Low,No action; include in standard satisfaction survey
+6374-NTQLP,0,0.046,0,Low,No action; include in standard satisfaction survey
+9777-IQHWP,0,0.046,0,Low,No action; include in standard satisfaction survey
+3750-YHRYO,0,0.0454,0,Low,No action; include in standard satisfaction survey
+5061-PBXFW,0,0.0452,0,Low,No action; include in standard satisfaction survey
+5170-PTRKA,0,0.045,0,Low,No action; include in standard satisfaction survey
+4086-ATNFV,0,0.0448,0,Low,No action; include in standard satisfaction survey
+7581-EBBOU,0,0.0446,0,Low,No action; include in standard satisfaction survey
+2061-VVFST,0,0.0446,0,Low,No action; include in standard satisfaction survey
+4537-CIBHB,0,0.0444,0,Low,No action; include in standard satisfaction survey
+7636-PEPNS,0,0.0443,0,Low,No action; include in standard satisfaction survey
+9926-PJHDQ,0,0.0442,0,Low,No action; include in standard satisfaction survey
+8690-UPCZI,0,0.0441,0,Low,No action; include in standard satisfaction survey
+4227-OJHAL,0,0.0441,0,Low,No action; include in standard satisfaction survey
+0056-EPFBG,0,0.0439,0,Low,No action; include in standard satisfaction survey
+8915-NNTRC,0,0.0436,0,Low,No action; include in standard satisfaction survey
+7677-SJJJK,0,0.0434,0,Low,No action; include in standard satisfaction survey
+5825-XJOCM,0,0.0432,0,Low,No action; include in standard satisfaction survey
+1131-ALZWV,0,0.0429,0,Low,No action; include in standard satisfaction survey
+4981-FLTMF,0,0.0424,0,Low,No action; include in standard satisfaction survey
+4877-TSOFF,0,0.0417,0,Low,No action; include in standard satisfaction survey
+8809-XKHMD,0,0.0414,0,Low,No action; include in standard satisfaction survey
+7338-ERIVA,0,0.0412,0,Low,No action; include in standard satisfaction survey
+1936-UAFEH,0,0.0401,0,Low,No action; include in standard satisfaction survey
+9919-FZDED,0,0.0395,0,Low,No action; include in standard satisfaction survey
+9209-NWPGU,0,0.0394,0,Low,No action; include in standard satisfaction survey
+1139-WUOAH,0,0.0392,0,Low,No action; include in standard satisfaction survey
+6013-BHCAW,0,0.0391,0,Low,No action; include in standard satisfaction survey
+1929-ZCBHE,0,0.0391,0,Low,No action; include in standard satisfaction survey
+1023-BQXZE,0,0.0391,0,Low,No action; include in standard satisfaction survey
+7322-OCWHC,0,0.0386,0,Low,No action; include in standard satisfaction survey
+9720-JJJOR,0,0.0378,0,Low,No action; include in standard satisfaction survey
+2088-IEBAU,0,0.0373,0,Low,No action; include in standard satisfaction survey
+2245-ADZFJ,0,0.0373,0,Low,No action; include in standard satisfaction survey
+4648-YPBTM,0,0.0373,0,Low,No action; include in standard satisfaction survey
+6527-PZFPV,0,0.0372,0,Low,No action; include in standard satisfaction survey
+0979-MOZQI,0,0.0371,0,Low,No action; include in standard satisfaction survey
+0307-BCOPK,0,0.037,0,Low,No action; include in standard satisfaction survey
+5505-OVWQW,0,0.0365,0,Low,No action; include in standard satisfaction survey
+7279-NMVJC,0,0.0362,0,Low,No action; include in standard satisfaction survey
+1063-DHQJF,0,0.0361,0,Low,No action; include in standard satisfaction survey
+1525-LNLOJ,0,0.0361,0,Low,No action; include in standard satisfaction survey
+1133-KXCGE,0,0.036,0,Low,No action; include in standard satisfaction survey
+9867-XOBQA,0,0.0358,0,Low,No action; include in standard satisfaction survey
+6322-HRPFA,0,0.0357,0,Low,No action; include in standard satisfaction survey
+6519-ZHPXP,0,0.0355,0,Low,No action; include in standard satisfaction survey
+3831-YCPUO,0,0.0354,0,Low,No action; include in standard satisfaction survey
+7996-BPXHY,0,0.0348,0,Low,No action; include in standard satisfaction survey
+4560-WQAQW,0,0.0346,0,Low,No action; include in standard satisfaction survey
+9359-UGBTK,0,0.0345,0,Low,No action; include in standard satisfaction survey
+8782-NUUOL,0,0.0339,0,Low,No action; include in standard satisfaction survey
+9385-NXKDA,0,0.0339,0,Low,No action; include in standard satisfaction survey
+5893-PYOLZ,0,0.0338,0,Low,No action; include in standard satisfaction survey
+6061-GWWAV,0,0.0336,0,Low,No action; include in standard satisfaction survey
+1271-UODNO,0,0.0335,0,Low,No action; include in standard satisfaction survey
+6461-PPAXN,0,0.0333,0,Low,No action; include in standard satisfaction survey
+6872-HXFNF,0,0.0332,0,Low,No action; include in standard satisfaction survey
+9746-UGFAC,0,0.0331,0,Low,No action; include in standard satisfaction survey
+7369-TRPFD,0,0.0331,0,Low,No action; include in standard satisfaction survey
+0230-UBYPQ,0,0.0328,0,Low,No action; include in standard satisfaction survey
+3649-JPUGY,0,0.0328,0,Low,No action; include in standard satisfaction survey
+4530-NDRKU,0,0.032,0,Low,No action; include in standard satisfaction survey
+3926-YZVVX,0,0.0319,0,Low,No action; include in standard satisfaction survey
+8869-TORSS,1,0.0319,0,Low,No action; include in standard satisfaction survey
+3125-RAHBV,0,0.0318,0,Low,No action; include in standard satisfaction survey
+8763-KIAFH,0,0.0317,0,Low,No action; include in standard satisfaction survey
+3489-VSFRD,0,0.0314,0,Low,No action; include in standard satisfaction survey
+1265-HVPZB,0,0.0312,0,Low,No action; include in standard satisfaction survey
+0707-HOVVN,0,0.031,0,Low,No action; include in standard satisfaction survey
+9108-EQPNQ,0,0.0308,0,Low,No action; include in standard satisfaction survey
+4737-HOBAX,0,0.0301,0,Low,No action; include in standard satisfaction survey
+0181-RITDD,0,0.0299,0,Low,No action; include in standard satisfaction survey
+3506-OVLKD,0,0.0292,0,Low,No action; include in standard satisfaction survey
+6203-HBZPA,0,0.029,0,Low,No action; include in standard satisfaction survey
+9030-QGZNL,0,0.0289,0,Low,No action; include in standard satisfaction survey
+2812-REYAT,0,0.0286,0,Low,No action; include in standard satisfaction survey
+8626-PTQGE,0,0.0286,0,Low,No action; include in standard satisfaction survey
+4709-LKHYG,0,0.0284,0,Low,No action; include in standard satisfaction survey
+6223-DHJGV,0,0.0283,0,Low,No action; include in standard satisfaction survey
+4751-ERMAN,0,0.0282,0,Low,No action; include in standard satisfaction survey
+2335-GSODA,0,0.0282,0,Low,No action; include in standard satisfaction survey
+8390-FESFV,0,0.0281,0,Low,No action; include in standard satisfaction survey
+6418-HNFED,0,0.0275,0,Low,No action; include in standard satisfaction survey
+1776-SPBWV,0,0.0274,0,Low,No action; include in standard satisfaction survey
+1122-YJBCS,0,0.0273,0,Low,No action; include in standard satisfaction survey
+5519-TEEUH,0,0.0271,0,Low,No action; include in standard satisfaction survey
+5318-YKDPV,0,0.027,0,Low,No action; include in standard satisfaction survey
+8779-YIQQA,0,0.0269,0,Low,No action; include in standard satisfaction survey
+5498-IBWPI,0,0.0269,0,Low,No action; include in standard satisfaction survey
+6698-OXETB,0,0.0265,0,Low,No action; include in standard satisfaction survey
+5917-RYRMG,0,0.0263,0,Low,No action; include in standard satisfaction survey
+5495-GPSRW,0,0.0259,0,Low,No action; include in standard satisfaction survey
+0263-FJTQO,0,0.0256,0,Low,No action; include in standard satisfaction survey
+3985-HOYPM,0,0.0254,0,Low,No action; include in standard satisfaction survey
+2541-YGPKE,0,0.0253,0,Low,No action; include in standard satisfaction survey
+1227-UDMZR,0,0.0252,0,Low,No action; include in standard satisfaction survey
+2150-OEGBV,0,0.025,0,Low,No action; include in standard satisfaction survey
+3717-FDJFU,0,0.0249,0,Low,No action; include in standard satisfaction survey
+2987-BJXIK,0,0.0248,0,Low,No action; include in standard satisfaction survey
+2824-DXNKN,0,0.0248,0,Low,No action; include in standard satisfaction survey
+0298-XACET,0,0.0246,0,Low,No action; include in standard satisfaction survey
+8314-HTWVE,0,0.0246,0,Low,No action; include in standard satisfaction survey
+0164-XAIRP,0,0.0244,0,Low,No action; include in standard satisfaction survey
+0301-FIDRB,0,0.0243,0,Low,No action; include in standard satisfaction survey
+6332-FBZRI,0,0.0242,0,Low,No action; include in standard satisfaction survey
+4039-PIMHX,0,0.024,0,Low,No action; include in standard satisfaction survey
+8181-YHCMF,0,0.024,0,Low,No action; include in standard satisfaction survey
+7337-CINUD,0,0.024,0,Low,No action; include in standard satisfaction survey
+6823-SIDFQ,0,0.0239,0,Low,No action; include in standard satisfaction survey
+9610-WCESF,0,0.0238,0,Low,No action; include in standard satisfaction survey
+6701-YVNQG,0,0.0237,0,Low,No action; include in standard satisfaction survey
+8873-TMKGR,0,0.0237,0,Low,No action; include in standard satisfaction survey
+5924-SNGKP,0,0.0235,0,Low,No action; include in standard satisfaction survey
+3251-YMVWZ,0,0.0235,0,Low,No action; include in standard satisfaction survey
+1494-EJZDW,0,0.0234,0,Low,No action; include in standard satisfaction survey
+5696-JVVQY,0,0.0232,0,Low,No action; include in standard satisfaction survey
+1090-ESELR,0,0.0227,0,Low,No action; include in standard satisfaction survey
+5774-QPLTF,0,0.0227,0,Low,No action; include in standard satisfaction survey
+2332-TODQS,0,0.0226,0,Low,No action; include in standard satisfaction survey
+0057-QBUQH,0,0.0225,0,Low,No action; include in standard satisfaction survey
+9339-FIIJL,0,0.0223,0,Low,No action; include in standard satisfaction survey
+0420-TXVSG,0,0.0222,0,Low,No action; include in standard satisfaction survey
+8345-MVDYC,0,0.0219,0,Low,No action; include in standard satisfaction survey
+4654-ULTTN,0,0.0218,0,Low,No action; include in standard satisfaction survey
+9968-FFVVH,0,0.0215,0,Low,No action; include in standard satisfaction survey
+3812-LRZIR,0,0.0215,0,Low,No action; include in standard satisfaction survey
+3161-ONRWK,0,0.0213,0,Low,No action; include in standard satisfaction survey
+7401-JIXNM,0,0.021,0,Low,No action; include in standard satisfaction survey
+6064-ZATLR,0,0.0209,0,Low,No action; include in standard satisfaction survey
+9824-QCJPK,0,0.0208,0,Low,No action; include in standard satisfaction survey
+5380-XPJNZ,0,0.0205,0,Low,No action; include in standard satisfaction survey
+5063-IUOKK,0,0.0202,0,Low,No action; include in standard satisfaction survey
+7061-OVMIM,0,0.0202,0,Low,No action; include in standard satisfaction survey
+5727-MYATE,0,0.0199,0,Low,No action; include in standard satisfaction survey
+6685-GBWJZ,0,0.0198,0,Low,No action; include in standard satisfaction survey
+4962-CHQPW,0,0.0198,0,Low,No action; include in standard satisfaction survey
+0048-PIHNL,0,0.0195,0,Low,No action; include in standard satisfaction survey
+8430-TWCBX,0,0.0194,0,Low,No action; include in standard satisfaction survey
+7649-SIJJF,0,0.019,0,Low,No action; include in standard satisfaction survey
+0559-CKHUS,0,0.019,0,Low,No action; include in standard satisfaction survey
+0052-YNYOT,0,0.0188,0,Low,No action; include in standard satisfaction survey
+6388-TABGU,0,0.0183,0,Low,No action; include in standard satisfaction survey
+9674-EHPPG,0,0.0182,0,Low,No action; include in standard satisfaction survey
+0123-CRBRT,0,0.018,0,Low,No action; include in standard satisfaction survey
+3865-ZFZIB,0,0.0178,0,Low,No action; include in standard satisfaction survey
+5751-USDBL,0,0.0176,0,Low,No action; include in standard satisfaction survey
+9073-ZZIAY,0,0.0176,0,Low,No action; include in standard satisfaction survey
+5181-OABFK,0,0.0173,0,Low,No action; include in standard satisfaction survey
+4521-WFJAI,0,0.0173,0,Low,No action; include in standard satisfaction survey
+8590-OHDIW,0,0.0172,0,Low,No action; include in standard satisfaction survey
+6953-PBDIN,0,0.0172,0,Low,No action; include in standard satisfaction survey
+4703-MQYKT,0,0.0171,0,Low,No action; include in standard satisfaction survey
+2885-HIJDH,0,0.017,0,Low,No action; include in standard satisfaction survey
+2649-HWLYB,0,0.0169,0,Low,No action; include in standard satisfaction survey
+9945-PSVIP,0,0.0168,0,Low,No action; include in standard satisfaction survey
+0769-MURVM,0,0.0166,0,Low,No action; include in standard satisfaction survey
+9548-LERKT,0,0.0163,0,Low,No action; include in standard satisfaction survey
+6096-EGVTU,0,0.0163,0,Low,No action; include in standard satisfaction survey
+4213-HKBJO,0,0.0161,0,Low,No action; include in standard satisfaction survey
+0732-OCQOC,0,0.016,0,Low,No action; include in standard satisfaction survey
+0839-JTCUD,0,0.0159,0,Low,No action; include in standard satisfaction survey
+0379-DJQHR,0,0.0158,0,Low,No action; include in standard satisfaction survey
+1085-LDWAM,0,0.0158,0,Low,No action; include in standard satisfaction survey
+8292-ITGYJ,0,0.0157,0,Low,No action; include in standard satisfaction survey
+3487-EARAT,0,0.0157,0,Low,No action; include in standard satisfaction survey
+7216-KAOID,0,0.0157,0,Low,No action; include in standard satisfaction survey
+4955-VCWBI,0,0.0155,0,Low,No action; include in standard satisfaction survey
+8241-JUIQO,0,0.0154,0,Low,No action; include in standard satisfaction survey
+3978-YNKDD,0,0.015,0,Low,No action; include in standard satisfaction survey
+9067-SQTNS,0,0.0149,0,Low,No action; include in standard satisfaction survey
+7560-QJAVJ,0,0.0148,0,Low,No action; include in standard satisfaction survey
+6164-HAQTX,0,0.0147,0,Low,No action; include in standard satisfaction survey
+5334-AFQJB,0,0.0146,0,Low,No action; include in standard satisfaction survey
+5666-MBJPT,0,0.0144,0,Low,No action; include in standard satisfaction survey
+2954-PIBKO,0,0.0141,0,Low,No action; include in standard satisfaction survey
+3884-UEBXB,0,0.0141,0,Low,No action; include in standard satisfaction survey
+4674-HGNUA,0,0.0139,0,Low,No action; include in standard satisfaction survey
+7408-OFWXJ,0,0.0139,0,Low,No action; include in standard satisfaction survey
+4335-UPJSI,0,0.0139,0,Low,No action; include in standard satisfaction survey
+2805-AUFQN,0,0.0138,0,Low,No action; include in standard satisfaction survey
+8173-RXAYP,0,0.0138,0,Low,No action; include in standard satisfaction survey
+5803-NQJZO,0,0.0138,0,Low,No action; include in standard satisfaction survey
+4940-KHCWD,0,0.0137,0,Low,No action; include in standard satisfaction survey
+8207-VVMYB,0,0.0136,0,Low,No action; include in standard satisfaction survey
+6288-CHQJB,0,0.0135,0,Low,No action; include in standard satisfaction survey
+2925-VDZHY,0,0.0135,0,Low,No action; include in standard satisfaction survey
+0608-JDVEC,0,0.0135,0,Low,No action; include in standard satisfaction survey
+4825-FUREZ,0,0.0135,0,Low,No action; include in standard satisfaction survey
+4018-PPNDW,0,0.0133,0,Low,No action; include in standard satisfaction survey
+8338-QIUNR,0,0.0131,0,Low,No action; include in standard satisfaction survey
+4299-OPXEJ,0,0.013,0,Low,No action; include in standard satisfaction survey
+7998-WNZEM,0,0.0129,0,Low,No action; include in standard satisfaction survey
+6080-LNESI,0,0.0129,0,Low,No action; include in standard satisfaction survey
+6917-FIJHC,0,0.0129,0,Low,No action; include in standard satisfaction survey
+3511-BFTJW,0,0.0127,0,Low,No action; include in standard satisfaction survey
+1697-LYYYX,0,0.0125,0,Low,No action; include in standard satisfaction survey
+3913-FCUUW,0,0.012,0,Low,No action; include in standard satisfaction survey
+9755-JHNMN,0,0.012,0,Low,No action; include in standard satisfaction survey
+3967-VQOGC,0,0.0118,0,Low,No action; include in standard satisfaction survey
+8219-VYBVI,0,0.0117,0,Low,No action; include in standard satisfaction survey
+4698-KVLLG,0,0.0115,0,Low,No action; include in standard satisfaction survey
+6283-GITPX,0,0.0113,0,Low,No action; include in standard satisfaction survey
+5296-BFCYD,0,0.011,0,Low,No action; include in standard satisfaction survey
+6370-ZVHDV,0,0.0109,0,Low,No action; include in standard satisfaction survey
+3470-OBUET,0,0.0109,0,Low,No action; include in standard satisfaction survey
+1820-DJFPH,0,0.0106,0,Low,No action; include in standard satisfaction survey
+2632-TACXW,0,0.0106,0,Low,No action; include in standard satisfaction survey
+3200-MNQTF,0,0.0105,0,Low,No action; include in standard satisfaction survey
+6374-AFWOX,0,0.0105,0,Low,No action; include in standard satisfaction survey
+3071-MVJCD,0,0.0104,0,Low,No action; include in standard satisfaction survey
+4735-BJKOU,0,0.0104,0,Low,No action; include in standard satisfaction survey
+1705-GUHPV,0,0.0104,0,Low,No action; include in standard satisfaction survey
+9114-DPSIA,0,0.0104,0,Low,No action; include in standard satisfaction survey
+5457-COLHT,0,0.0102,0,Low,No action; include in standard satisfaction survey
+6134-KWTBV,0,0.0102,0,Low,No action; include in standard satisfaction survey
+3088-FVYWK,0,0.0102,0,Low,No action; include in standard satisfaction survey
+3027-YNWZU,0,0.0101,0,Low,No action; include in standard satisfaction survey
+0562-FGDCR,0,0.01,0,Low,No action; include in standard satisfaction survey
+4779-ZGICK,0,0.0097,0,Low,No action; include in standard satisfaction survey
+1047-RNXZV,0,0.0095,0,Low,No action; include in standard satisfaction survey
+8701-DGLVH,0,0.0095,0,Low,No action; include in standard satisfaction survey
+6169-PPETC,0,0.0094,0,Low,No action; include in standard satisfaction survey
+1716-LSAMB,0,0.0094,0,Low,No action; include in standard satisfaction survey
+3795-GWTRD,0,0.0094,0,Low,No action; include in standard satisfaction survey
+5845-BZZIB,0,0.0093,0,Low,No action; include in standard satisfaction survey
+7606-BPHHN,0,0.0091,0,Low,No action; include in standard satisfaction survey
+2696-RZVZW,0,0.009,0,Low,No action; include in standard satisfaction survey
+2169-RRLFW,0,0.0088,0,Low,No action; include in standard satisfaction survey
+3646-ITDGM,0,0.0088,0,Low,No action; include in standard satisfaction survey
+9372-TXXPS,0,0.0087,0,Low,No action; include in standard satisfaction survey
+7729-XBTWX,0,0.0086,0,Low,No action; include in standard satisfaction survey
+6340-DACFT,0,0.0083,0,Low,No action; include in standard satisfaction survey
+6625-FLENO,0,0.0083,0,Low,No action; include in standard satisfaction survey
+1574-DYCWE,0,0.0082,0,Low,No action; include in standard satisfaction survey
+2525-GVKQU,0,0.0081,0,Low,No action; include in standard satisfaction survey
+7515-LODFU,0,0.0078,0,Low,No action; include in standard satisfaction survey
+4742-TXUEX,0,0.0075,0,Low,No action; include in standard satisfaction survey
+1709-EJDOX,0,0.0075,0,Low,No action; include in standard satisfaction survey
+1862-QRWPE,0,0.0074,0,Low,No action; include in standard satisfaction survey
+8347-GDTMP,0,0.0074,0,Low,No action; include in standard satisfaction survey
+0040-HALCW,0,0.0074,0,Low,No action; include in standard satisfaction survey
+6848-HJTXY,0,0.0074,0,Low,No action; include in standard satisfaction survey
+8129-GMVGI,0,0.0074,0,Low,No action; include in standard satisfaction survey
+2230-XTUWL,0,0.0073,0,Low,No action; include in standard satisfaction survey
+2075-PUEPR,0,0.0073,0,Low,No action; include in standard satisfaction survey
+2616-FLVQC,0,0.0073,0,Low,No action; include in standard satisfaction survey
+8590-YFFQO,0,0.0072,0,Low,No action; include in standard satisfaction survey
+8165-ZJRNM,0,0.0072,0,Low,No action; include in standard satisfaction survey
+1945-XISKS,0,0.0071,0,Low,No action; include in standard satisfaction survey
+9365-CSLBQ,0,0.0071,0,Low,No action; include in standard satisfaction survey
+0174-QRVVY,0,0.0071,0,Low,No action; include in standard satisfaction survey
+8224-KDLKN,0,0.007,0,Low,No action; include in standard satisfaction survey
+2346-LOCWC,0,0.007,0,Low,No action; include in standard satisfaction survey
+7602-DBTOU,0,0.0066,0,Low,No action; include in standard satisfaction survey
+6345-FZOQH,0,0.0066,0,Low,No action; include in standard satisfaction survey
+1830-IPXVJ,0,0.0066,0,Low,No action; include in standard satisfaction survey
+7717-BICXI,0,0.0066,0,Low,No action; include in standard satisfaction survey
+7157-SMCFK,0,0.0064,0,Low,No action; include in standard satisfaction survey
+3910-MRQOY,0,0.0064,0,Low,No action; include in standard satisfaction survey
+2236-HILPA,0,0.0063,0,Low,No action; include in standard satisfaction survey
+3563-SVYLG,0,0.0062,0,Low,No action; include in standard satisfaction survey
+8619-IJNDK,0,0.006,0,Low,No action; include in standard satisfaction survey
+2984-RGEYA,0,0.0057,0,Low,No action; include in standard satisfaction survey
+9537-JALFH,0,0.0055,0,Low,No action; include in standard satisfaction survey
+3642-BYHDO,0,0.0054,0,Low,No action; include in standard satisfaction survey
+1403-GYAFU,0,0.0053,0,Low,No action; include in standard satisfaction survey
+1166-PQLGG,0,0.0053,0,Low,No action; include in standard satisfaction survey
+0794-YVSGE,0,0.0052,0,Low,No action; include in standard satisfaction survey
+4277-BWBML,0,0.0052,0,Low,No action; include in standard satisfaction survey

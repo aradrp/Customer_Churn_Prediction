@@ -1,0 +1,47 @@
+{
+  "model_version": "logistic_regression-v1-20261020195530",
+  "trained_at": "2026-10-20T19:55:30.700914+00:00",
+  "threshold": 0.05,
+  "fn_cost_assumption": 500.0,
+  "fp_cost_assumption": 30.0,
+  "metrics_at_threshold": {
+    "threshold": 0.05,
+    "accuracy": 0.5288552507095553,
+    "precision": 0.35917312661498707,
+    "recall": 0.9928571428571429,
+    "f1": 0.5275142314990512,
+    "roc_auc": 0.8543597168597169,
+    "pr_auc": 0.668867773425374,
+    "brier": 0.13297826224492634,
+    "tn": 281,
+    "fp": 496,
+    "fn": 2,
+    "tp": 278,
+    "prediction_latency_ms": 0.05285599996568635
+  },
+  "random_seed": 42,
+  "numerical_columns": [
+    "SeniorCitizen",
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "categorical_columns": [
+    "gender",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+  ],
+  "model_family": "logistic_regression"
+}
